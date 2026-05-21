@@ -1,0 +1,668 @@
+[
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/POO.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\POO.dir\\src\\main.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\src\\main.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/src/main.cpp",
+  "output": "CMakeFiles/POO.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/POO.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\POO.dir\\src\\Game.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\src\\Game.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/src/Game.cpp",
+  "output": "CMakeFiles/POO.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/POO.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\POO.dir\\src\\Entity.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\src\\Entity.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/src/Entity.cpp",
+  "output": "CMakeFiles/POO.dir/src/Entity.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/POO.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\POO.dir\\src\\Enemy.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\src\\Enemy.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/src/Enemy.cpp",
+  "output": "CMakeFiles/POO.dir/src/Enemy.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/POO.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\POO.dir\\src\\WeaponStrategy.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\src\\WeaponStrategy.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/src/WeaponStrategy.cpp",
+  "output": "CMakeFiles/POO.dir/src/WeaponStrategy.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Err.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Sleep.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\String.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Utils.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Utils.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Utils.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Vector2.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Vector2.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Vector2.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Vector2.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Vector3.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Vector3.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Vector3.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Vector3.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\FileInputStream.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\MemoryInputStream.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\SleepImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Main",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-main.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Main\\MainWin32.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp",
+  "output": "_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Clipboard.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Context.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Cursor.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlContext.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlResource.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Joystick.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\JoystickManager.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Keyboard.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Mouse.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Touch.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Sensor.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\SensorManager.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\VideoMode.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Vulkan.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Vulkan.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Window.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowBase.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/WindowBase.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\CursorImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\InputImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\SensorImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\BlendMode.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Font.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Glsl.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLCheck.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLExtensions.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Image.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderStates.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTexture.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTarget.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderWindow.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shader.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\StencilMode.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\StencilMode.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/StencilMode.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Texture.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\TextureSaver.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transform.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transformable.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\View.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shape.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\CircleShape.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RectangleShape.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ConvexShape.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Sprite.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Text.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexArray.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexBuffer.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\autofit\\autofit.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\autofit\\autofit.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/autofit/autofit.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/autofit/autofit.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftbase.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftbase.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftbase.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbase.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftbbox.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftbbox.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftbbox.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbbox.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftbdf.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftbdf.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftbdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbdf.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftbitmap.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftbitmap.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftbitmap.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftcid.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftcid.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftcid.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftcid.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftfstype.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftfstype.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftfstype.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftfstype.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftgasp.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftgasp.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftgasp.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftgasp.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftglyph.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftglyph.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftglyph.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftglyph.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftgxval.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftgxval.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftgxval.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftgxval.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftinit.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftinit.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftinit.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftinit.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftmm.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftmm.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftmm.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftmm.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftotval.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftotval.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftotval.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftotval.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftpatent.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftpatent.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftpatent.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftpatent.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftpfr.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftpfr.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftpfr.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftpfr.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftstroke.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftstroke.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftstroke.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftstroke.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftsynth.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftsynth.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftsynth.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftsynth.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\fttype1.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\fttype1.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/fttype1.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/fttype1.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\base\\ftwinfnt.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\base\\ftwinfnt.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/base/ftwinfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\bdf\\bdf.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\bdf\\bdf.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/bdf/bdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/bdf/bdf.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\bzip2\\ftbzip2.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\bzip2\\ftbzip2.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/bzip2/ftbzip2.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\cache\\ftcache.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\cache\\ftcache.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/cache/ftcache.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cache/ftcache.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\cff\\cff.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\cff\\cff.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/cff/cff.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cff/cff.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\cid\\type1cid.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\cid\\type1cid.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/cid/type1cid.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/cid/type1cid.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\gzip\\ftgzip.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\gzip\\ftgzip.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/gzip/ftgzip.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\lzw\\ftlzw.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\lzw\\ftlzw.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/lzw/ftlzw.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\pcf\\pcf.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\pcf\\pcf.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/pcf/pcf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pcf/pcf.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\pfr\\pfr.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\pfr\\pfr.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/pfr/pfr.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pfr/pfr.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\psaux\\psaux.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\psaux\\psaux.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/psaux/psaux.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/psaux/psaux.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\pshinter\\pshinter.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\pshinter\\pshinter.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/pshinter/pshinter.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\psnames\\psnames.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\psnames\\psnames.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/psnames/psnames.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/psnames/psnames.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\raster\\raster.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\raster\\raster.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/raster/raster.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/raster/raster.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\sdf\\sdf.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\sdf\\sdf.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/sdf/sdf.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/sdf/sdf.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\sfnt\\sfnt.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\sfnt\\sfnt.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/sfnt/sfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\smooth\\smooth.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\smooth\\smooth.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/smooth/smooth.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/smooth/smooth.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\svg\\svg.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\svg\\svg.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/svg/svg.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/svg/svg.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\truetype\\truetype.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\truetype\\truetype.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/truetype/truetype.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/truetype/truetype.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\type1\\type1.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\type1\\type1.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/type1/type1.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/type1/type1.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\type42\\type42.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\type42\\type42.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/type42/type42.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/type42/type42.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\src\\winfonts\\winfnt.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\src\\winfonts\\winfnt.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/src/winfonts/winfnt.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\builds\\windows\\ftsystem.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\builds\\windows\\ftsystem.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/builds/windows/ftsystem.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftsystem.c.obj"
+},
+{
+  "directory": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/freetype.dir/includes_C.rsp -g -fvisibility=hidden -o CMakeFiles\\freetype.dir\\builds\\windows\\ftdebug.c.obj -c C:\\Users\\corne\\Desktop\\Poo\\proiect2\\build\\_deps\\freetype-src\\builds\\windows\\ftdebug.c",
+  "file": "C:/Users/corne/Desktop/Poo/proiect2/build/_deps/freetype-src/builds/windows/ftdebug.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftdebug.c.obj"
+}
+]
